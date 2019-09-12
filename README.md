@@ -9,3 +9,4 @@ just trying to learn git
 just more text
 
 this is a second test. let's see what happens. 
+line 12 in the test branch 2
