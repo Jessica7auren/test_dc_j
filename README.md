@@ -7,3 +7,5 @@ just trying to learn git
 
 
 just more text
+
+this is a second test. let's see what happens. 
